@@ -9,6 +9,7 @@ class Table extends Component {
       data: [],
       count: null
    }
+   
 
    componentDidMount() {
 

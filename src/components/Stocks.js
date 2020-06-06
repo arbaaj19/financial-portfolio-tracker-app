@@ -3,6 +3,7 @@ import './Stocks.css'
 import axios from 'axios';
 
 class Stocks extends Component {
+   
 
    state = {
       data: [],
